@@ -1,4 +1,0 @@
-first shell 0
-git push
-cd ..
-echo first shell> README.md
